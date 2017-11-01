@@ -14,8 +14,7 @@ RAISERROR('
 /***********************************************************************************************************************
 Purpose:
 -------
-Update the Payee information on the target payee row
-Used in the payee restatement process
+
 
 Usage:
 -----
